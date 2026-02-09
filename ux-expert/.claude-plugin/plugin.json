@@ -1,0 +1,8 @@
+{
+  "name": "ux-expert",
+  "version": "1.0.0",
+  "description": "Always-on UX advisor that surfaces relevant Laws of UX when building or modifying UI components. Proactively activates when creating, editing, or reviewing any user interface — components, layouts, navigation, forms, interactions, or visual design.",
+  "author": {
+    "name": "shlomi-schwartz"
+  }
+}
