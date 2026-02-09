@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "ux-expert",
-      "source": "./ux-expert",
+      "source": "./skills/ux-expert",
       "description": "Always-on UX advisor that surfaces relevant Laws of UX when building or modifying UI components. Covers 30 laws across decision-making, cognition, visual organization, memory, engagement, and design principles.",
       "version": "1.0.0",
       "author": {
