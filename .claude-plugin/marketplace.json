@@ -13,6 +13,15 @@
       "author": {
         "name": "shlomi-schwartz"
       }
+    },
+    {
+      "name": "shadcn-ui-expert",
+      "source": "./skills/shadcn-ui-expert",
+      "description": "Complete shadcn/ui component and chart code reference with all variants. Provides instant lookup for 54 base UI components and 7 Recharts chart types with full TSX code examples. Handles variant selection by asking the user.",
+      "version": "1.0.0",
+      "author": {
+        "name": "shlomi-schwartz"
+      }
     }
   ]
 }
